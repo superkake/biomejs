@@ -1,0 +1,2 @@
+# biomejs
+Trying Biome words
